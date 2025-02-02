@@ -8,11 +8,11 @@
 ### 💻 Code Files  
 - **Speech Understanding Question 1.ipynb** – Code for **Lie Detection (Question 1)**  
 - **Speech Understanding Question 2 Part A.ipynb** – Code for **UrbanSound8k (Question 2 Part A)**  
-- **Speech_Understanding_Question_2_Part_B.ipynb** – Code for **4 Songs Analysis (Question 2 Part B)**  
+- **Speech_Understanding_Question_2_Part_B.ipynb** – Code for **4 Songs' Spectrogram Analysis (Question 2 Part B)**  
 
 ### 📄 Reports  
 - **Speech_Understanding_Part_2_B22CS092.pdf** – Report for **Question 2**  
-- **Unmasking_Deception__Deepfake_and_Lie_Detection_Techniques_in_Audio_Forensics.pdf** – Report for **Lie Detection (Question 1)**  
+- **Unmasking_Deception__Deepfake_and_Lie_Detection_Techniques_in_Audio_Forensics.pdf** – Report for **Question 1**  
 
 ### 🖥️ Presentation  
 - **Speech presentation.pdf** – Presentation covering key findings  
