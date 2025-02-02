@@ -21,4 +21,4 @@
 This repository contains code and reports for **Speech Understanding Assignment 1**, focusing on **lie detection and deepfake analysis**. The work includes **machine learning and deep learning models for deception detection, urban sound classification using UrbanSound8k, and a spectrogram analysis for speech understanding.**  
 
 ## 🚀 Usage  
-Clone this repository and open the respective Jupyter notebooks (`.ipynb` files) to explore the implementations.  
+Clone this repository and open the respective Jupyter notebooks (`.ipynb` files) to explore the implementations.  Link - https://github.com/Neermita18/Speech-Understanding-Labs
